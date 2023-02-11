@@ -1,0 +1,3 @@
+SECRET_KEY = "-_1'73GtB|t1vi\\ry@iv<Bf;"
+
+FB_APP_ID = 1200420960103822
