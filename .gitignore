@@ -1,1 +1,4 @@
-__pycache__/
+__pycache__
+fbapp/__pycache__
+*.pyc
+app.db
